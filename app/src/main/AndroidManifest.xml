@@ -26,7 +26,7 @@
 
                 <data
                     android:host="run"
-                    android:scheme="luv_app_runner" />
+                    android:scheme="runner" />
             </intent-filter>
         </activity>
     </application>
